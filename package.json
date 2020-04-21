@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/cesarferreira/drone-hive#readme",
   "dependencies": {
-    "filehound": "^1.16.2"
+    "filehound": "^1.17.4"
   }
 }
